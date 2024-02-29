@@ -1,5 +1,7 @@
 function Home() {
-  return <h1>Gabriel será o MAIOR desenvolvedor de todos os tempos. 🚀🚀🚀</h1>;
+  return (
+    <h1>Nís seremos os MAIORES desenvolvedores de todos os tempos. 🚀🚀🚀</h1>
+  );
 }
 
 export default Home;
