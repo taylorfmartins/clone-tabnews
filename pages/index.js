@@ -1,7 +1,5 @@
 function Home() {
-  return (
-    <h1>Nós seremos os MAIORES desenvolvedores de todos os tempos. 🚀🚀🚀</h1>
-  );
+  return <h1>Salve 🚀🚀🚀</h1>;
 }
 
 export default Home;
